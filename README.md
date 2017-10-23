@@ -1,9 +1,6 @@
 ## The Road-map of My AI Learning
 
 ### Computer Science Fundamentals and Programming
-
----
-
 #### 1. Data Structure and Algorithms
 
 - [x] 【Course】[中国大学MOOC浙江大学：数据结构——陈越、何钦铭](http://www.icourse163.org/course/ZJU-93001?tid=1002019005)
@@ -83,13 +80,10 @@
 
 
 
-
+------
 
 
 ### Math Basics 
-
----
-
 #### 1. Probability and Statistics
 
 - [ ] 【Book】统计学习方法——李航
@@ -116,13 +110,10 @@
 
 
 
-
+------
 
 
 ### Machine Learning
-
----
-
 #### 1. Basic Algorithms
 
 - General Intros
@@ -141,13 +132,10 @@
 
 
 
-
+------
 
 
 ### Deep Learning
-
----
-
 #### 1. Basic Models
 
 - General Intros
@@ -192,14 +180,11 @@
 
 
 
-
+--------
 
 
 
 ### Data Science
-
----
-
 #### 1. Data Collection
 
 - Web Scraping
@@ -235,13 +220,10 @@
 
 
 
-
+--------
 
 
 ### Application
-
----
-
 #### 1. Computer Vision
 
 - General Intros
@@ -255,13 +237,10 @@
   - [ ] 【Blog】[Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 
 
-
+------
 
 
 ### Project
-
----
-
 #### 1. Competition
 
 - [x] [DataCastle: 智慧中国杯全国大数据应用创新大赛初赛“精准资助”算法资格赛 (Rank: 39/2175)](http://www.dcjingsai.com/common/cmpt/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6%E9%87%91%E7%B2%BE%E5%87%86%E8%B5%84%E5%8A%A9%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
