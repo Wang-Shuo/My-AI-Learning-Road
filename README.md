@@ -77,13 +77,16 @@
 #### 9. Others
 
 - [ ] 【Blog】[Github: Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+- [ ] 【Book】Elements of Programming Interviews
+- [ ] 【Book】剑指offer
+- [ ] 【Book】Cracking the Coding Interviews
 
 
 
 ------
 
 
-### Math Basics 
+### Math Basics
 #### 1. Probability and Statistics
 
 - [ ] 【Book】统计学习方法——李航
@@ -95,7 +98,7 @@
 
 - [ ] 【Book】Elementary Linear Algebra Applications Version 11e——Howward Anton、Chris Rorres
 
-#### 3.  Optimization Algorithms 
+#### 3.  Optimization Algorithms
 
 - [ ] 【Slides】[Introduction to Convex Optimization for Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/optimization/slides.pdf)
 
@@ -141,7 +144,7 @@
 - General Intros
   - [ ] 【Book】Deep Learning——Ian Goodfellow、Yoshua Bengio、Aaron Courville
   - [x] 【Course】Udacity: Deep Learning Foundation
-  - [ ] 【Course】[Deeplearning.ai: Deep learning——Andrew Ng](https://www.deeplearning.ai/) 
+  - [ ] 【Course】[Deeplearning.ai: Deep learning——Andrew Ng](https://www.deeplearning.ai/)
   - [ ] 【Course】[Fast AI: deep learning](http://www.fast.ai/)
 
 
@@ -205,6 +208,8 @@
   - [ ] 【Book】Hive编程指南——Edward Capriolo
 - Pandas
   - [x] 【Docs】[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+- Numpy
+  - [x] 【Docs】[Numpy Quickstart Tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
 #### 4. Feature Engineering
 
@@ -249,14 +254,3 @@
 #### 2. Exercise Project
 
 #### 3. Portfolio Project
-
-
-
-
-
-
-
-
-
-
-
