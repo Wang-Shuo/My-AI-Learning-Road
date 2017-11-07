@@ -132,6 +132,7 @@
 
 - [Scikit-learn](http://scikit-learn.org/stable/)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+- [Awesome XGBoost](https://github.com/dmlc/xgboost/tree/master/demo#basic-examples-by-tasks)
 
 
 
