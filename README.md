@@ -223,6 +223,7 @@
 #### 6. Others
 
 - [x] 【Course】Dataquest: Data Science & Data Analyst
+- [x] 【Book】[Beating Kaggle the Easy Way——Dong Ying](https://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
 
 
 
