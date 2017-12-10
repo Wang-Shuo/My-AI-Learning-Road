@@ -4,7 +4,7 @@
 #### 1. Data Structure and Algorithms
 
 - [x] 【Course】[中国大学MOOC浙江大学：数据结构——陈越、何钦铭](http://www.icourse163.org/course/ZJU-93001?tid=1002019005)
-- [ ] 【Course】[StuQ：算法与数据结构——覃超](https://new.stuq.org/course/70)
+- [x] 【Course】[StuQ：算法与数据结构——覃超](https://new.stuq.org/course/70)
 - [ ] 【Course】[Tutorialspoint: Data Structure & Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 - [ ] 【Practice】[LeetCode: Algorithms](https://leetcode.com/problemset/algorithms/)
 - [ ] 【Book】算法的乐趣——王晓华
@@ -252,6 +252,7 @@
 
 - [x] [DataCastle: 智慧中国杯全国大数据应用创新大赛初赛“精准资助”算法资格赛 (Rank: 39/2175)](http://www.dcjingsai.com/common/cmpt/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6%E9%87%91%E7%B2%BE%E5%87%86%E8%B5%84%E5%8A%A9%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
 - [x] [Kaggle: Carvana Image Masking Challenge (Rank 180/735)](https://www.kaggle.com/c/carvana-image-masking-challenge)
+- [x] [AI Challenger: 场景分类 (Rank 79/133)](https://challenger.ai/competition/scene)
 
 #### 2. Exercise Project
 
