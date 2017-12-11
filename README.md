@@ -72,6 +72,7 @@
 - [ ] 【Book】[Docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/)
 - [x] 【Blog】[简明VIM练级攻略](https://coolshell.cn/articles/5426.html)
 - [ ] 【Course】[Github: Learn Regex the Easy Way](https://github.com/zeeshanu/learn-regex)
+- [x] 【Tutorial】[A Tmux Primer](https://danielmiessler.com/study/tmux/)
 
 
 #### 9. Others
