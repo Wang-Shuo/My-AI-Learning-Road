@@ -128,6 +128,10 @@
   - [ ] 【Book】集体智慧编程
   - [ ] 【Blog】[machine learning mastery](https://machinelearningmastery.com/start-here/)
 
+- Linear Discriminant Analysis(LDA)
+  - [x] 【Blog】[线性判别分析](http://www.cnblogs.com/jerrylead/archive/2011/04/21/2024384.html)
+  - [ ] 【Blog】[Linear Discriminant Analysis](http://sebastianraschka.com/Articles/2014_python_lda.html)
+
 
 #### 2. Basic Packages
 
