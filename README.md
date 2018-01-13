@@ -43,8 +43,6 @@
 #### 5. R Programming
 
 - [ ] 【Book】[R for Data Science——Garrett Grolemund](http://r4ds.had.co.nz/)
-
-
 - [ ] 【Book】[Cookbook for R——Winston Chang](http://www.cookbook-r.com/)
 
 
@@ -52,11 +50,7 @@
 #### 6. Shell Programming
 
 - [ ] 【Blog】[Shell Scripting Tutorial](https://www.shellscript.sh/)
-
-
 - [ ] 【Blog】[Learnshell: Shell Programming](http://www.learnshell.org/)
-
-
 - [ ] 【Course】[Github: bash guide](https://github.com/Idnan/bash-guide)
 
 
@@ -103,14 +97,8 @@
 #### 3.  Optimization Algorithms
 
 - [ ] 【Slides】[Introduction to Convex Optimization for Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/optimization/slides.pdf)
-
-
 - [ ] 【Course】[EE236B: Convex Optimization](http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html)
-
-
 - [ ] 【Book】Convex Optimization——Stephen Boyd & Lieven Vandenberghe
-
-
 - [ ] 【Book】Optimization for Machine Learning——Sra、Suvrit
 
 
@@ -189,6 +177,8 @@
   - [ ] 【Course】李沐：动手学深度学习
 
 
+#### 3. Tricks
+- [x] [Must Know Tips/Tricks in Deep Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 
 --------
 
