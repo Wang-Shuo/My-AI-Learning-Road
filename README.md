@@ -152,18 +152,12 @@
 - Tensorflow
 
   - [ ] 【Docs】[Google: Tensorflow Tutorials](https://www.tensorflow.org/get_started/)
-
-
   - [ ] 【Book】tensorflow: 实战Google深度学习框架——郑泽宇
-
-
   - [ ] 【Book】Tensorflow实战——黄文坚
 
 - PyTorch
 
   - [x] 【Blog】[Github: PyTorch examples](https://github.com/jcjohnson/pytorch-examples)
-
-
   - [ ] 【Docs】[PyTorch Tutorials](http://pytorch.org/tutorials/)
 
 - Caffe
@@ -230,7 +224,7 @@
 #### 1. Computer Vision
 
 - General Intros
-  - [ ] 【Course】[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [x] 【Course】[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 #### 2. Natural Language Processing
 
