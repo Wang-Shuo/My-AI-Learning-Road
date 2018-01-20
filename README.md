@@ -200,6 +200,7 @@
   - [ ] 【Book】Hive编程指南——Edward Capriolo
 - Pandas
   - [x] 【Docs】[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+  - [x] 【Tutorial】[A Beginner's Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
 - Numpy
   - [x] 【Docs】[Numpy Quickstart Tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
