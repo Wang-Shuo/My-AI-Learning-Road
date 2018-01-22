@@ -97,12 +97,15 @@
 
 #### 3.  Optimization Algorithms
 
-- [ ] 【Slides】[Introduction to Convex Optimization for Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/optimization/slides.pdf)
-- [ ] 【Course】[EE236B: Convex Optimization](http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html)
-- [ ] 【Book】Convex Optimization——Stephen Boyd & Lieven Vandenberghe
-- [ ] 【Book】Optimization for Machine Learning——Sra、Suvrit
+- General Intros
+  - [ ] 【Slides】[Introduction to Convex Optimization for Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/optimization/slides.pdf)
+  - [ ] 【Course】[EE236B: Convex Optimization](http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html)
+  - [ ] 【Book】Convex Optimization——Stephen Boyd & Lieven Vandenberghe
+  - [ ] 【Book】Optimization for Machine Learning——Sra、Suvrit
 
-
+- Specific Algorithms
+  - [x] 【Tutorial】[深入理解拉格朗日乘子法和KKT条件](http://www.cnblogs.com/mo-wang/p/4775548.html)
+  - [x] 【Tutorial】[拉格朗日乘子法和KKT条件](http://www.cnblogs.com/zhangchaoyang/articles/2726873.html)
 
 ------
 
