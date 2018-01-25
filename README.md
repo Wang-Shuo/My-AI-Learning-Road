@@ -215,7 +215,11 @@
 
 - [ ] 【Docs】[matplotlib tutorials](https://matplotlib.org/2.0.2/users/tutorials.html)
 
-#### 6. Others
+#### 6. Model Ensembles
+- [x] 【Tutorial】[Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/)
+- [ ] 【Tutorial】[Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
+
+#### 7. Others
 
 - [x] 【Course】Dataquest: Data Science & Data Analyst
 - [x] 【Book】[Beating Kaggle the Easy Way——Dong Ying](https://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
