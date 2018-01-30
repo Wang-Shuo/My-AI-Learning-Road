@@ -6,7 +6,7 @@
 - General Intros
   - [x] 【Course】[中国大学MOOC浙江大学：数据结构——陈越、何钦铭](http://www.icourse163.org/course/ZJU-93001?tid=1002019005)
   - [x] 【Course】[StuQ：算法与数据结构——覃超](https://new.stuq.org/course/70)
-  - [ ] 【Book】大话数据结构——程杰
+  - [x] 【Book】大话数据结构——程杰
   - [ ] 【Practice】[LeetCode: Algorithms](https://leetcode.com/problemset/algorithms/)
   - [ ] 【Book】算法的乐趣——王晓华
   - [ ] 【Blog】[纸上谈兵：算法与数据结构——Vamei](http://www.cnblogs.com/vamei/archive/2013/03/22/2974052.html)
