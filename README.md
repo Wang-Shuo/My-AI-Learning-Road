@@ -37,7 +37,7 @@
 - [x] 【Course】[The Python Mega Course: Build 10 Python Applications——Udemy](https://www.udemy.com/the-python-mega-course/)
 - [ ] 【Book】[Dive into Python 3——Mark Pilgrim](http://www.diveintopython3.net/)
 - [ ] 【Blog】[The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-- [ ] 【Book】[Intermediate Python](http://book.pythontips.com/en/latest/index.html)
+
 
 
 
@@ -164,10 +164,15 @@
   - [x] 【Blog】[Github: PyTorch examples](https://github.com/jcjohnson/pytorch-examples)
   - [ ] 【Docs】[PyTorch Tutorials](http://pytorch.org/tutorials/)
 
+- Caffe
 
 - Keras
 
   - [ ] 【Docs】[Keras Documentation](https://keras.io/)
+
+- MXNet
+
+  - [ ] 【Course】李沐：动手学深度学习
 
 
 #### 3. Tricks
@@ -182,8 +187,6 @@
 
 - Web Scraping
   - [x] 【Course】极客学院：Python利器，超凡蜘蛛侠带你爬世界
-  - [x] 【Tutorial】[知乎live: 爬虫从入门到进阶](https://www.zhihu.com/lives/827530183664861184)
-  - [x] 【Book】[Python3网络爬虫开发实战](https://germey.gitbooks.io/python3webspider/content/)
 
 #### 2. Data Storage
 
