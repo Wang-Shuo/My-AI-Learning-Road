@@ -9,12 +9,7 @@
   - [x] 【Book】大话数据结构——程杰
   - [ ] 【Practice】[LeetCode: Algorithms](https://leetcode.com/problemset/algorithms/)
   - [ ] 【Book】算法的乐趣——王晓华
-  - [ ] 【Blog】[纸上谈兵：算法与数据结构——Vamei](http://www.cnblogs.com/vamei/archive/2013/03/22/2974052.html)
-  - [ ] 【Book】[Grokking Algorithms——Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms)
 
-- Specific Algorithms
-  - [x] [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
-  - [x] [详解KMP算法](http://www.cnblogs.com/yjiyjige/p/3263858.html)
 
 
 #### 2. Operating System
@@ -35,9 +30,7 @@
 - [x] 【Book】[A Byte of Python——Swaroop C H](https://python.swaroopch.com/)
 - [x] 【Book】[Think Python 2e——Allen B. Downey](http://greenteapress.com/wp/think-python-2e/)
 - [x] 【Course】[The Python Mega Course: Build 10 Python Applications——Udemy](https://www.udemy.com/the-python-mega-course/)
-- [ ] 【Book】[Dive into Python 3——Mark Pilgrim](http://www.diveintopython3.net/)
-- [ ] 【Blog】[The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-
+- [ ] 【Book】流畅的Python
 
 
 
@@ -75,7 +68,7 @@
 
 - [ ] 【Blog】[Github: Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 - [ ] 【Book】Elements of Programming Interviews
-- [ ] 【Book】剑指offer
+- [x] 【Book】剑指offer
 - [ ] 【Book】Cracking the Coding Interviews
 
 
@@ -86,7 +79,7 @@
 ### Math Basics
 #### 1. Probability and Statistics
 
-- [ ] 【Book】统计学习方法——李航
+- [x] 【Book】统计学习方法——李航
 - [ ] 【Book】统计学习基础——Robert Tibshirani
 - [ ] 【Book】[Think Stats——Allen B. Downey](http://greenteapress.com/wp/think-stats-2e/)
 
@@ -103,9 +96,7 @@
   - [ ] 【Book】Convex Optimization——Stephen Boyd & Lieven Vandenberghe
   - [ ] 【Book】Optimization for Machine Learning——Sra、Suvrit
 
-- Specific Algorithms
-  - [x] 【Tutorial】[深入理解拉格朗日乘子法和KKT条件](http://www.cnblogs.com/mo-wang/p/4775548.html)
-  - [x] 【Tutorial】[拉格朗日乘子法和KKT条件](http://www.cnblogs.com/zhangchaoyang/articles/2726873.html)
+
 
 ------
 
@@ -115,15 +106,11 @@
 
 - General Intros
 
-  - [ ] 【Book】机器学习——周志华
+  - [x] 【Book】机器学习——周志华
   - [x] 【Course】Udacity: Machine Learning Nanodegree
   - [x] 【Course】Coursera: Machine Learning——Andrew Ng
   - [ ] 【Book】集体智慧编程
-  - [ ] 【Blog】[machine learning mastery](https://machinelearningmastery.com/start-here/)
 
-- Linear Discriminant Analysis(LDA)
-  - [x] 【Blog】[线性判别分析](http://www.cnblogs.com/jerrylead/archive/2011/04/21/2024384.html)
-  - [x] 【Blog】[Linear Discriminant Analysis](http://sebastianraschka.com/Articles/2014_python_lda.html)
 
 
 #### 2. Basic Packages
@@ -253,6 +240,7 @@
 - [x] [DataCastle: 智慧中国杯全国大数据应用创新大赛初赛“精准资助”算法资格赛 (Rank: 39/2175)](http://www.dcjingsai.com/common/cmpt/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6%E9%87%91%E7%B2%BE%E5%87%86%E8%B5%84%E5%8A%A9%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
 - [x] [Kaggle: Carvana Image Masking Challenge (Rank 180/735)](https://www.kaggle.com/c/carvana-image-masking-challenge)
 - [x] [AI Challenger: 场景分类 (Rank 79/133)](https://challenger.ai/competition/scene)
+- [x] [Kaggle: TalkingData Adtracking Fraud Detection (Rank 655/3967)](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
 #### 2. Exercise Project
 
