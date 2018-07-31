@@ -5,3 +5,6 @@
 2. Python中的元类(metaclass)
     - [What are metaclasses in Python](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
     - [廖雪峰Python3教程:使用元类](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014319106919344c4ef8b1e04c48778bb45796e0335839000)
+
+3. Python实例方法、类方法和静态方法
+    - [CSDN:Python实例方法、类方法和静态方法](https://blog.csdn.net/lihao21/article/details/79762681)
