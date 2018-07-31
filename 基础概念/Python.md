@@ -8,3 +8,13 @@
 
 3. Python实例方法、类方法和静态方法
     - [CSDN:Python实例方法、类方法和静态方法](https://blog.csdn.net/lihao21/article/details/79762681)
+
+4. Python实例变量和类变量
+    - [Understanding Class and Instance Variables in Python 3](https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3)
+    - [Changing Class Members in Python](https://www.geeksforgeeks.org/g-fact-42-changing-class-members-python/)
+
+5. Python中的下划线
+    - [Underscores in Python](https://shahriar.svbtle.com/underscores-in-python)
+
+6. Python迭代器和生成器
+    - [What does the yield keyword do](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
