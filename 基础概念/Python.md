@@ -18,3 +18,6 @@
 
 6. Python迭代器和生成器
     - [What does the yield keyword do](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do)
+
+7. String Format
+    - [How to Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3#specifying-type)
